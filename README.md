@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Why using NextJs
+NextJs boosts up the website in SEO and it provides both client side as well as server side in a single nextjs app.
+
 ## Getting Started
 
 First, run the development server:
