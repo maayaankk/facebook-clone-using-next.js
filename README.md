@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Why using NextJs
 NextJs boosts up the website in SEO and it provides both client side as well as server side in a single nextjs app.
 In this website we have used tailwind for the responsive website and styling
+## Nextjs
 
 ## Getting Started
 
